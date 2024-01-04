@@ -3,6 +3,6 @@
 
 # Installation
 
-git clone https://github.com/xMarcoi/AnimeGirl-KDE-Splash.git
+```git clone https://github.com/xMarcoi/AnimeGirl-KDE-Splash.git```
 
-mv AnimeGirl-KDE-Splash ~/.local/share/plasma/look-and-feel
+```mv AnimeGirl-KDE-Splash ~/.local/share/plasma/look-and-feel```
