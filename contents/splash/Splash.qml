@@ -22,7 +22,7 @@ import QtGraphicalEffects 1.0
 
 Image {
     id: root
-    source: "images/background.jpg"
+    source: "images/background.png"
     fillMode: Image.PreserveAspectCrop
     
     property int stage
