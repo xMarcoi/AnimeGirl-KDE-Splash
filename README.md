@@ -12,4 +12,4 @@
 
 ```mv AnimeGirl-KDE-Splash ~/.local/share/plasma/look-and-feel```
 
-rename the desired picture to background.png
+rename the desired picture in ```AnimeGirl-KDE-Splash/tree/main/contents/splash/images``` to background.png
