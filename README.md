@@ -11,3 +11,5 @@
 ```git clone https://github.com/xMarcoi/AnimeGirl-KDE-Splash.git```
 
 ```mv AnimeGirl-KDE-Splash ~/.local/share/plasma/look-and-feel```
+
+rename the desired picture to background.png
